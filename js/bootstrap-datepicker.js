@@ -1778,4 +1778,4 @@
 		datepickerPlugin.call($('[data-provide="datepicker-inline"]'));
 	});
 
-}(window.jQuery));
+}(jQuery || window.jQuery));
